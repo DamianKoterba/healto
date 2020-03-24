@@ -1,0 +1,97 @@
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.navbar li{
+    margin-right: 30px;
+    font-size: 22px;;
+}
+.btn-outline-success{
+    border-color: #a71930;
+    color:#a71930;
+    width: 6rem !important;
+    height: 3rem !important;
+    font-size:20px !important;
+}
+.btn-outline-success:hover{
+    background-color: #a71930;
+    border-color: #a71930;
+}
+.post{
+    color: black;
+    font-family: 'Bree Serif', serif;
+}
+.card-img-top{
+    width: 60rem;
+}
+.profileimage{
+    height: 30px;
+    border-radius: 50px;
+    float: right;
+}
+.profile{
+    height: 30px;
+    font-size: 20px;
+}
+p{
+    font-family: 'Asap', sans-serif;
+    font-size: 18px;
+}
+.RecentPost{
+    margin-left: 9rem;
+    width: 61rem;
+    margin-top:50px;
+}
+.recent-post-content{
+    height:11rem;
+}
+.minature{
+    width: 15rem;
+    height:11rem;
+}
+.recent-post-textbox{
+    width: 41rem;
+    height:11rem;
+}
+.read-more{
+    color:#a71930;
+}
+.read-more:hover{
+    color:#30A719;
+    text-decoration: none;;
+}
+.RecentPost:nth-child(1){
+    margin-top:20px;
+}
+.sidebar{
+    margin-left: 9rem;
+    margin-right: 9rem;
+    margin-top: 30px;
+    width: 30rem;
+}
+.sidebar-logo{
+    border-radius: 300px;
+    width: 21rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sidebar-text{
+    width: 28rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    font-size: 18px;
+    text-align: center;
+}
+.footer{
+    background-color:#a71930;
+}
+.body{
+    height: 34rem;
+    background-color: white;
+    z-index: 10000;
+    width: 120rem;
+}
+/* #30A719 */
